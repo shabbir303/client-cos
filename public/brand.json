@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/jr5ZpGC/KIko-MIlano.jpg",
+      "name": "KIKO MILANO"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/gjbpRYQ/lorel.jpg",
+      "name": "LOREL"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/8cJHDJN/revlon.jpg",
+      "name": "REVLON"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/wSfCDmf/Urban-Decay-Cosmetics.jpg",
+      "name": "URBAN DECAY"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/z5WHmCt/chanel.jpg",
+      "name": "CHANEL"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/DthfHB3/estee-lauder.png",
+      "name": "ESTEE LAUDER"
+    }
+  ]
+  
